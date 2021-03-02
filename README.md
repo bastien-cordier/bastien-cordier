@@ -10,4 +10,4 @@
 <br>
 🔗 Vous pouvez me contacter par <a href="mailto:bastien.cordier78@gmail.com">mail</a> ou sur <a href="https://www.linkedin.com/in/bastien-cordier-03a070151/">LinkedIn</a>.
 
-🇫🇷🇬🇧🇪🇸
+🇫🇷 🇬🇧 🇪🇸
