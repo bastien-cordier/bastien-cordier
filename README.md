@@ -5,9 +5,7 @@
 💻 Je suis Développeur Web en apprentissage.<br>
 💼 Depuis Septembre 2020 je travaille pour l'entreprise <a href="https://www.ercom.fr">ERCOM Group Thales</a> en tant que Développeur Web Junior.<br>
 🏫 Je suis actuellement en Mastère 1 Architecture Web et Big Data à <a href="https://www.ecole-ipssi.com">IPSSI, École d'informatique et du numérique</a>.<br>
-🕹 Mes hobbies sont : ✈️ 🏝 🎧 🎬 🎮 🚵🏼 🏀 
+🕹 Mes hobbies sont : ✈️ 🏝 🎧 🎬 🎮 🚵🏼 🏀 🇫🇷
 <br>
 <br>
 🔗 Vous pouvez me contacter par <a href="mailto:bastien.cordier78@gmail.com">mail</a> ou sur <a href="https://www.linkedin.com/in/bastien-cordier-03a070151/">LinkedIn</a>.
-
-🇫🇷 🇬🇧 🇪🇸
