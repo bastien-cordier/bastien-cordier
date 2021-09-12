@@ -1,6 +1,6 @@
-### Hi there 👋
+### Bonjour tout le monde 👋
 
-🙋 Salut ! Moi c'est Bastien, j'ai 21 ans et je fais du code depuis 4 ans.<br>
+🙋 Salut ! Moi c'est Bastien, j'ai 22 ans et je fais du code depuis 2017.<br>
 📍 J'habite à <a href="https://www.google.com/maps/place/Bois-d'Arcy/@48.806006,2.0047559,14z/data=!3m1!4b1!4m5!3m4!1s0x47e686941992c0a5:0x40b82c3688c4400!8m2!3d48.80598!4d2.022188">Bois d'Arcy</a> à côté de Paris en France.<br>
 💻 Je suis Développeur Web en apprentissage.<br>
 💼 Depuis Septembre 2020 je travaille pour l'entreprise <a href="https://www.ercom.fr">ERCOM Group Thales</a> en tant que Développeur Web Junior.<br>
