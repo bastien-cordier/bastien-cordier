@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Bastien</h1>
 <h3 align="center">A passionate frontend developer from Paris.</h3>
 
-- 💻 I’m currently working for **@Transatel & @Ubigi.**
+- 💻 I’m currently working for **[@Transatel](https://transatel.com) & [@Ubigi](https://cellulardata.ubigi.com).**
 
 - 🌱 I’m currently learning **NextJS, NodeJS & ReactNative.**
 
