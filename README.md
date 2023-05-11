@@ -1,9 +1,12 @@
-### Bonjour tout le monde 👋
+<h1 align="center">Hi 👋🏼, I'm Bastien</h1>
+<h3 align="center">A passionate frontend developer from Paris.</h3>
 
-🙋 Moi c'est Bastien, j'ai 23 ans et je fais du code depuis 2017.<br>
-📍 J'habite dans les Yvelines région Parisienne.<br>
-💻 Je suis Développeur Web Front-End et UI/UX Designer.<br>
-🕹 Mes hobbies sont : ✈️ 🏝 🎧 🎬 🎮 🚵🏼 🏀
-<br>
-<br>
-🔗 Vous pouvez me contacter par <a href="mailto:bastien.cordier78@gmail.com">mail</a> ou sur <a href="https://www.linkedin.com/in/bastien-cordier-03a070151/">LinkedIn</a>.
+- 💻 I’m currently working for **@Transatel & @Ubigi.**
+
+- 🌱 I’m currently learning **NextJS, NodeJS & ReactNative.**
+
+- 👨‍💻 All of my projects are available at [https://bastiencordier.netlify.app](https://bastiencordier.netlify.app)
+
+- 💬 Ask me about **WordPress and Headless CMS.**
+
+- 📫 How to reach me **bastien.cordier78@gmail.com**
